@@ -16,6 +16,10 @@ public class Planning {
 		public Date getDateMaint() {
 			return dateMaint;
 		}
+		
+
+
+		
 		public void setDateMaint(Date dateMaint) {
 			this.dateMaint = dateMaint;
 		}
